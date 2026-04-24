@@ -1,5 +1,6 @@
 # ✅ Simple Version
-```I want you correct my structure prompt for AI-Studio.
+```
+I want you correct my structure prompt for AI-Studio.  
 Noted: Please provide only the structured prompt in Markdown format, ready to copy and paste into AI Studio.
 
 Here is my prompt:
