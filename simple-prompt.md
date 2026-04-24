@@ -17,7 +17,7 @@ Here is my prompt:
 Ex: SYDEN PC shop
 
 ## Description:
-[Explain what your system does]
+[Explain what your system does]  
 Ex: A Computer shop management PC, Accessories, Employee & Clients...
 
 ## Tech Stack:
