@@ -1,11 +1,18 @@
+# ✅ Simple Version
+I want you correct my structure prompt for AI-Studio.
+
+Here is my prompt:
+
+# ✅ Better Version (Recommended)
 I want you to:
 1. Correct my AI-Studio prompt
 2. Improve it to production-level
 3. Add anything missing (DB, API, validation, structure)
 4. Keep it clean and ready to copy
-
+5. 
 Here is my prompt:
 
+# Structure
 ## Project: [Your Project Name]
 Ex: SYDEN PC shop
 
