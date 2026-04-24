@@ -9,7 +9,7 @@ I want you to:
 2. Improve it to production-level
 3. Add anything missing (DB, API, validation, structure)
 4. Keep it clean and ready to copy
-5. 
+
 Here is my prompt:
 
 # Structure prompt
