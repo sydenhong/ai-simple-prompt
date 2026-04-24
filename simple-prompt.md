@@ -12,7 +12,7 @@ I want you to:
 5. 
 Here is my prompt:
 
-# Structure
+# Structure prompt
 ## Project: [Your Project Name]
 Ex: SYDEN PC shop
 
