@@ -1,3 +1,11 @@
+I want you to:
+1. Correct my AI-Studio prompt
+2. Improve it to production-level
+3. Add anything missing (DB, API, validation, structure)
+4. Keep it clean and ready to copy
+
+Here is my prompt:
+
 ## Project: [Your Project Name]
 Ex: SYDEN PC shop
 
