@@ -8,28 +8,6 @@ How to use:
 
 ---
 
-# ✅ Simple Version
-```
-I want you to build [what you want] for my project.
-Noted: Please provide only the code in Markdown format, ready to copy and paste.
-
-Here is my info:
-```
-
-# ✅ Better Version (Recommended)
-```
-I want you to:
-1. Build [what you want]
-2. Use only my tech stack and my table names below
-3. Ask me if something is missing — do not guess
-4. Give me the complete file, not only a part
-Noted: Please provide only the code in Markdown format, ready to copy and paste.
-
-Here is my info:
-```
-
----
-
 # 🔥 Structure Prompt (Master) — Real Example: SYDEN Blog
 This is a **full, real prompt**. Copy all of it into AI Studio. It can build the whole project.
 
